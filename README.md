@@ -1,2 +1,2 @@
 # Machine-Learning-Labs
-The zipped files are uploaded. They can be downloaded easily.
+The lab files are uploaded. If any file does not open try reloading multiple times. If the problem continues, download them.
